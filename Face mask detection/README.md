@@ -28,3 +28,9 @@ The dataset we are working on consists of 1376 images with 690 images containing
 10. Engage trained Face Mask Detection Model to the face identified and determine if the person is wearing Mask or Not.
 
 11. Throw a Warning Message in terms of Pop Up window to highlight that Access Denied if the person has not worn the face mask.
+
+
+## Let’s dive into the code for face mask detector project:
+We are going to build this project in two parts. In the first part, we will write a python script using Keras to train face mask detector model. In the second part, we test the results in a real-time webcam using OpenCV.
+
+
