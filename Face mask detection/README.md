@@ -5,6 +5,7 @@ We will build a real-time system to detect whether the person on the webcam is w
 
 ## Download the Dataset
 The dataset we are working on consists of 1376 images with 690 images containing images of people wearing masks and 686 images with people without masks.
+## Link -> https://drive.google.com/drive/folders/1b94uStdriMg3Ri7xV2fcXPCKIAT5Dbmr
 
 ## Face Mask Detection Alert System
 1. Configure Working Directory and Mount Google Drive to make use of Google Colab.
